@@ -13,7 +13,7 @@ As a seasoned engineer and a community person, I preach my craft whenever necess
 
 <p align="center">
   <a href="https://dev.to/bashirk">
-    <img src="svg/blogs/devto.svg" alt="DEV" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/bashirk/bashirk/blob/master/svg/blogs/devto.svg" alt="DEV" style="vertical-align:top; margin:4px">
   </a>  
 </p>
 
