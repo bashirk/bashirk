@@ -128,5 +128,5 @@ As a seasoned engineer and a community person, I preach my craft whenever necess
   </a> 
 </p>
 
-## Badges Credit
+## Credit
 [MikeCodesDotNet](https://github.com/MikeCodesDotNET/ColoredBadges)
