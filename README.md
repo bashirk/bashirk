@@ -5,11 +5,19 @@
 
 I'm Korede Bashir, a result-oriented software engineer, with an expertise in community building
 
+---
 ## About me
 With over 3 years professional experience in software engineering, I have built comprehensive solutions to complex problems over the years, and I craft these amazing software solutions using JavaScript (MERN) and Python - while working on distributed teams.
 
-As a seasoned engineer and a community person, I preach my craft whenever necessary - and required. I have spoken at international conferences like the [NDC Conference](ndcconferences.com), aside from speaking at (and facilitating) national events, workshops and user groups. 
+As a seasoned engineer and a community person, I preach my craft whenever necessary - and required. I have spoken at international conferences like the [NDC Conference](ndcconferences.com), aside from speaking at (and facilitating) national events, workshops and user groups. You can peep the contents of my personal blog [here](https://bashirk.netlify.app).
 
+<p align="center">
+  <a href="https://bashirk.netlify.app">
+    <img src="personalBlog.svg" alt="Personal" style="vertical-align:top; margin:4px">
+  </a>  
+</p>
+
+---
 ## Pronouns 
 <p align="left">
   <a href="#">
@@ -17,6 +25,7 @@ As a seasoned engineer and a community person, I preach my craft whenever necess
   </a> 
 </p>
 
+---
 ## How To Reach Me 
 <p align="left">
   <a href="https://linkedin.com/in/bashir-korede">
@@ -40,6 +49,7 @@ As a seasoned engineer and a community person, I preach my craft whenever necess
   </a>
 </p>
 
+---
 ## I'm Currently Working With
  <p align="left">
   
@@ -57,6 +67,7 @@ As a seasoned engineer and a community person, I preach my craft whenever necess
   
  </p>
 
+---
 ## Frameworks I Currently Use
 <p align="left">
   <a href="https://laravel.com">
@@ -69,6 +80,7 @@ As a seasoned engineer and a community person, I preach my craft whenever necess
   
  </p>
  
+---
 ## Tools I Use
 <p align="left">
   <a href="https://git-scm.com/">
@@ -88,6 +100,7 @@ As a seasoned engineer and a community person, I preach my craft whenever necess
   </a> 
 </p>
  
+---
 ## You Can Ask Me About
 <p align="left">
   <a href="https://azure.microsoft.com">
