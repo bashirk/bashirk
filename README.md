@@ -8,17 +8,7 @@ I'm Korede Bashir, a result-oriented software engineer, with an expertise in com
 ## About me
 With over 3 years professional experience in software engineering, I have built comprehensive solutions to complex problems over the years, and I craft these amazing software solutions using JavaScript (MERN) and Python - while working on distributed teams.
 
-As a seasoned engineer and a community person, I preach my craft whenever necessary - and required. I have spoken at international conferences like the NDC Conference (ndcconferences.com), aside from speaking at (and facilitating) national events, workshops and user groups. 
-
-
-- 🔭 I’m currently working on  
-- 🌱 I’m currently learning Laravel 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+As a seasoned engineer and a community person, I preach my craft whenever necessary - and required. I have spoken at international conferences like the [NDC Conference](ndcconferences.com), aside from speaking at (and facilitating) national events, workshops and user groups. 
 
 ## Pronouns 
 <p align="left">
@@ -27,7 +17,7 @@ As a seasoned engineer and a community person, I preach my craft whenever necess
   </a> 
 </p>
 
-## Social & Professional 
+## How To Reach Me 
 <p align="left">
   <a href="https://linkedin.com/in/bashir-korede">
     <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
@@ -50,7 +40,7 @@ As a seasoned engineer and a community person, I preach my craft whenever necess
   </a>
 </p>
 
-## Languages I Speak
+## I'm Currently Working With
  <p align="left">
   
   <a href="#">
@@ -67,13 +57,13 @@ As a seasoned engineer and a community person, I preach my craft whenever necess
   
  </p>
 
-## Frameworks I Use
+## Frameworks I Currently Use
 <p align="left">
-  <a href="#">
+  <a href="https://laravel.com">
     <img src="svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:6px 4px">
   </a>
   
-  <a href="#">
+  <a href="https://nodejs.org">
     <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
   </a>  
   
@@ -81,46 +71,46 @@ As a seasoned engineer and a community person, I preach my craft whenever necess
  
 ## Tools I Use
 <p align="left">
-  <a href="#">
+  <a href="https://git-scm.com/">
     <img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
   </a> 
   
-  <a href="#">
+  <a href="https://docker.com">
     <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
   </a> 
   
-   <a href="#">
+   <a href="https://docs.microsoft.com/en-us/powershell/">
     <img src="svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
   </a> 
   
-  <a href="#">
+  <a href="https://code.visualstudio.com/">
     <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
   </a> 
 </p>
  
-## Services I'm Versed In
+## You Can Ask Me About
 <p align="left">
-  <a href="#">
+  <a href="https://azure.microsoft.com">
     <img src="svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:6px 4px">
   </a> 
   
-  <a href="#">
+  <a href="https://digitalocean.com">
     <img src="svg/dev/services/digitalocean.svg" alt="digitalocean" style="vertical-align:top; margin:6px 4px">
   </a> 
   
-  <a href="#">
+  <a href="https://aws.amazon.com">
     <img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
   </a> 
   
-  <a href="#">
+  <a href="https://kubernetes.io">
     <img src="svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:6px 4px">
   </a>
   
-  <a href="#">
+  <a href="https://npmjs.org">
     <img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
   </a> 
   
-  <a href="#">
+  <a href="https://office.com">
     <img src="svg/dev/services/office_365.svg" alt="office 365" style="vertical-align:top; margin:6px 4px">
   </a> 
 </p>
