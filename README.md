@@ -12,8 +12,8 @@ With over 3 years professional experience in software engineering, I have built 
 As a seasoned engineer and a community person, I preach my craft whenever necessary - and required. I have spoken at international conferences like the [NDC Conference](ndcconferences.com), aside from speaking at (and facilitating) national events, workshops and user groups. You can peep the contents of my personal blog [here](https://bashirk.netlify.app).
 
 <p align="center">
-  <a href="https://bashirk.netlify.app">
-    <img src="personalBlog.svg" alt="Personal" style="vertical-align:top; margin:4px">
+  <a href="https://dev.to/bashirk">
+    <img src="svg/blogs/devto.svg" alt="DEV" style="vertical-align:top; margin:4px">
   </a>  
 </p>
 
