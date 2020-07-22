@@ -36,11 +36,11 @@ As a seasoned engineer and a community person, I preach my craft whenever necess
     <img src="https://github.com/bashirk/bashirk/blob/master/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>
 
-  <a href="koredebashir@studentpartner.com">
+  <a href="mailto:koredebashir@studentpartner.com">
     <img src="https://github.com/bashirk/bashirk/blob/master/svg/social/outlook.svg" alt="outlook" style="vertical-align:top; margin:6px 4px">
   </a>  
   
-  <a href="bashirkorede@gmail.com">
+  <a href="mailto:bashirkorede@gmail.com">
     <img src="https://github.com/bashirk/bashirk/blob/master/svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>
   
