@@ -54,10 +54,6 @@ As a seasoned engineer and a community person, I preach my craft whenever necess
  <p align="left">
   
   <a href="#">
-    <img src="https://github.com/bashirk/bashirk/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  
-  <a href="#">
     <img src="https://github.com/bashirk/bashirk/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
   </a> 
   
