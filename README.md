@@ -3,7 +3,7 @@
 <!--
 **bashirk/bashirk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm Korede Bashir, a result-oriented software engineer, with an expertise in community building
+I'm Korede Bashir, a result-oriented software engineer, with an expertise in software performance.
 
 ---
 ## About me
