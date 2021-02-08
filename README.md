@@ -7,7 +7,7 @@ I'm Korede Bashir, a result-oriented software engineer, with an expertise in sof
 
 ---
 ## About me
-With over 3 years professional experience in software engineering, I have built comprehensive solutions to complex problems over the years, and I craft these amazing software solutions using JavaScript (MERN) and Python - while working on distributed teams.
+With over 5 years experience in software engineering, I have built comprehensive solutions to complex problems over the years, and I craft these amazing software solutions using JavaScript (MERN) and Python - while working with distributed teams.
 
 As a seasoned engineer and a community person, I preach my craft whenever necessary - and required. I have spoken at international conferences like the [NDC Conference](ndcconferences.com), aside from speaking at (and facilitating) national events, workshops and user groups. You can peep the contents of my personal blog [here](https://bashirk.netlify.app).
 
